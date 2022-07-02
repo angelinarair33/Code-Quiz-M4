@@ -1,0 +1,41 @@
+.centeredquiztitle {
+    text-align: center;
+}
+
+#begin {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    border: none;
+    background-color: blueviolet;
+    border-radius: 25px;
+    color: white;
+    display: inline-block;
+    font-size: 22px;
+    line-height: 22px;
+    margin: 16px 16px 16px 20px;
+    padding: 14px 34px;
+    text-align: center;
+    cursor: pointer;
+}
+  
+#scorebtn {
+    display: flex;
+    justify-content: center;
+}
+
+.scorebutton {
+    border: none;
+    background-color: blueviolet;
+    border-radius: 25px;
+    color: white;
+    display: inline-block;
+    font-size: 22px;
+    line-height: 22px;
+    margin: 16px 16px 16px 20px;
+    padding: 14px 34px;
+    text-align: center;
+    cursor: pointer;
+  }
